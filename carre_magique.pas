@@ -1,3 +1,4 @@
+//tp
 program carrepas;
 uses crt ;
 //BUT : completer un carre magique
